@@ -14,7 +14,7 @@ body {
 }
 
 .background {
-    background-image: url(/img/img-fundo-foto.jpg);
+    background-image: url(img/img-fundo-foto.jpg);
     background-size: cover;
     background-position: center;
     width: 100%;
